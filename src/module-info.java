@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author xneo
+ *
+ */
+module conwayAlgorithm {
+}
